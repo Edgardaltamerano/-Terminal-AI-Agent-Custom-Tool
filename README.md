@@ -148,7 +148,7 @@ Problem: Folder tidak ditemukan
 Solution: Pastikan folder target ada dan dapat diakses
 ```
 
-### 🤝 Kontribusi
+## 🤝 Kontribusi
 
 1. Contributions are welcome!
 2. Fork repository
