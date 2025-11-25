@@ -20,7 +20,6 @@ AI Agent berbasis terminal yang dapat memahami perintah bahasa Indonesia dan men
 ### Langkah 1: Clone Repository
 ```bash
 git clone https://github.com/Edgardaltamerano/-Terminal-AI-Agent-Custom-Tool.git
-cd ai-terminal-agent
 ```
 ### Langkah 2: Jalankan AI Agent
 python ai_agent.py
