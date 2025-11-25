@@ -144,22 +144,30 @@ Solution: Pastikan folder target ada dan dapat diakses
 ```
 
 ### 🤝 Kontribusi
-1 **Contributions are welcome!
-2 **Fork repository
-3 **Buat feature branch
-4 **Commit changes
-5 **Push ke branch
-6 **Buat Pull Request
+1. Contributions are welcome!
+
+2. Fork repository
+
+3. Buat feature branch
+
+4. Commit changes
+
+5. Push ke branch
+
+6. Buat Pull Request
 
 ## 📄 License
 MIT License - bebas digunakan untuk personal maupun komersial.
 
 ## 💡 Tips Penggunaan
-1 **Gunakan bahasa natural - AI memahami percakapan sehari-hari
-2 **Spesifik lebih baik - "rapikan file PDF di Downloads"
-3 **Cek available memory sebelum operasi file besar
-4 **Backup data penting sebelum menggunakan file organizer
+1. Gunakan bahasa natural - AI memahami percakapan sehari-hari
 
-Dibuat dengan ❤️ untuk developer dan system administrator
+2. Spesifik lebih baik - "rapikan file PDF di Downloads"
 
-"Membuat pekerjaan sehari-hari lebih mudah dengan AI"
+3. Cek available memory sebelum operasi file besar
+
+4. Backup data penting sebelum menggunakan file organizer
+
+### Dibuat untuk developer dan system administrator
+
+### "Membuat pekerjaan sehari-hari lebih mudah dengan AI"
