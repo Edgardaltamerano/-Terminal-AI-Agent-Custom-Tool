@@ -1,4 +1,3 @@
-# -Terminal-AI-Agent-Custom-Tool
 # 🤖 AI Terminal Agent - Asisten Cerdas di Command Line
 
 AI Agent berbasis terminal yang dapat memahami perintah bahasa Indonesia dan menjalankan tugas otomatis seperti manajemen file, monitoring sistem, dan pencarian file.
