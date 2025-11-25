@@ -4,7 +4,7 @@ AI Agent berbasis terminal yang dapat memahami perintah bahasa Indonesia dan men
 
 ## ✨ Fitur Utama
 
-- **💬 Natural Language Interface** - Berinteraksi dengan bahasa Indonesia sehari-hari
+- **💬 Natural Language Interface** - Berinteraksi dengan bahasa sehari-hari
 - **🎨 Terminal Berwarna** - Interface yang menarik dan mudah dibaca
 - **📁 Smart File Organizer** - Otomatis mengorganisir file berdasarkan ekstensi
 - **🖥️ System Monitoring** - Cek RAM, CPU, dan info sistem lainnya
@@ -19,7 +19,7 @@ AI Agent berbasis terminal yang dapat memahami perintah bahasa Indonesia dan men
 
 ### Langkah 1: Clone Repository
 ```bash
-git clone https://github.com/username/ai-terminal-agent.git
+git clone https://github.com/Edgardaltamerano/-Terminal-AI-Agent-Custom-Tool.git
 cd ai-terminal-agent
 ```
 ### Langkah 2: Jalankan AI Agent
@@ -118,22 +118,22 @@ Downloads/
 ### 🧠 Natural Language Processing
 
 AI memahami berbagai variasi perintah:
-- **"rapikan file PDF" = "organisir file pdf" = "pindahkan file pdf"
-- **"cek RAM" = "periksa memory" = "lihat sisa memory"
+- "rapikan file PDF" = "organisir file pdf" = "pindahkan file pdf"
+- "cek RAM" = "periksa memory" = "lihat sisa memory"
 
 ### 📂 Smart File Detection
 
 Mendeteksi otomatis:
 
-- **Ekstensi file: PDF, JPG, PNG, DOCX, TXT, PY, ZIP, RAR
-- **Folder target: Downloads, Documents, Desktop
-- **Bahasa: Indonesia sehari-hari
+- Ekstensi file: PDF, JPG, PNG, DOCX, TXT, PY, ZIP, RAR
+- Folder target: Downloads, Documents, Desktop
+- Bahasa: Indonesia sehari-hari
 
 ### 🛡️ Safety Features
 
-- **Validasi path sebelum operasi
-- **Penanganan error yang graceful
-- **Duplicate file handling dengan penamaan otomatis
+- Validasi path sebelum operasi
+- Penanganan error yang graceful
+- Duplicate file handling dengan penamaan otomatis
 
 ### ❓ Troubleshooting
 Problem: ModuleNotFoundError
