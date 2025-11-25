@@ -115,26 +115,19 @@ Downloads/
 ## 🎪 Fitur Keren
 ### 🧠 Natural Language Processing
 AI memahami berbagai variasi perintah:
-
-"rapikan file PDF" = "organisir file pdf" = "pindahkan file pdf"
-
-"cek RAM" = "periksa memory" = "lihat sisa memory"
+- **"rapikan file PDF" = "organisir file pdf" = "pindahkan file pdf"
+- **"cek RAM" = "periksa memory" = "lihat sisa memory"
 
 ### 📂 Smart File Detection
 Mendeteksi otomatis:
-
-Ekstensi file: PDF, JPG, PNG, DOCX, TXT, PY, ZIP, RAR
-
-Folder target: Downloads, Documents, Desktop
-
-Bahasa: Indonesia sehari-hari
+- **Ekstensi file: PDF, JPG, PNG, DOCX, TXT, PY, ZIP, RAR
+- **Folder target: Downloads, Documents, Desktop
+- **Bahasa: Indonesia sehari-hari
 
 ### 🛡️ Safety Features
-Validasi path sebelum operasi
-
-Penanganan error yang graceful
-
-Duplicate file handling dengan penamaan otomatis
+- **Validasi path sebelum operasi
+- **Penanganan error yang graceful
+- **Duplicate file handling dengan penamaan otomatis
 
 ### ❓ Troubleshooting
 Problem: ModuleNotFoundError
@@ -150,81 +143,21 @@ Solution: Pastikan folder target ada dan dapat diakses
 ```
 
 ### 🤝 Kontribusi
-Contributions are welcome!
+1 **Contributions are welcome!
+2 **Fork repository
+3 **Buat feature branch
+4 **Commit changes
+5 **Push ke branch
+6 **Buat Pull Request
 
-Fork repository
-
-Buat feature branch
-
-Commit changes
-
-Push ke branch
-
-Buat Pull Request
-
-### 📄 License
+## 📄 License
 MIT License - bebas digunakan untuk personal maupun komersial.
 
-##💡 Tips Penggunaan
-Gunakan bahasa natural - AI memahami percakapan sehari-hari
+## 💡 Tips Penggunaan
+1 **Gunakan bahasa natural - AI memahami percakapan sehari-hari
+2 **Spesifik lebih baik - "rapikan file PDF di Downloads"
+3 **Cek available memory sebelum operasi file besar
+4 **Backup data penting sebelum menggunakan file organizer
 
-Spesifik lebih baik - "rapikan file PDF di Downloads"
-
-Cek available memory sebelum operasi file besar
-
-Backup data penting sebelum menggunakan file organizer
-
-Dibuat dengan ❤️ untuk developer dan system administrator Indonesia
-
+Dibuat dengan ❤️ untuk developer dan system administrator
 "Membuat pekerjaan sehari-hari lebih mudah dengan AI"
-
-``` text
-
-## 📋 **File-file yang Perlu Disertakan:**
-```
-**1. `requirements.txt`**
-```txt
-colorama>=0.4.6
-psutil>=5.9.0
-```
-2. .gitignore
-
-gitignore
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.venv/
-.DS_Store
-Organized/  # Folder hasil organisasi
-3. Struktur Repository yang Disarankan:
-
-text
-ai-terminal-agent/
-├── ai_agent.py          # File utama
-├── requirements.txt     # Dependencies
-├── README.md           # Dokumentasi ini
-├── .gitignore          # Git ignore rules
-└── images/             # Screenshots (jika ada)
-    ├── demo1.png
-    └── demo2.png
-🚀 Cara Deploy ke GitHub:
-bash
-# Inisialisasi git
-git init
-
-# Tambahkan semua file
-git add .
-
-# Commit pertama
-git commit -m "feat: AI Terminal Agent dengan natural language Indonesia"
-
-# Hubungkan ke GitHub (ganti dengan URL repo Anda)
-git remote add origin https://github.com/username/ai-terminal-agent.git
-
-# Push ke main branch
-git branch -M main
-git push -u origin main
