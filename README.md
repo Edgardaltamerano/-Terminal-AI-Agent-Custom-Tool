@@ -94,6 +94,7 @@ psutil - Untuk system monitoring
 pathlib - Untuk manipulasi path yang aman
 
 Supported Platforms
+
 ✅ Windows
 
 ✅ macOS
@@ -160,4 +161,5 @@ MIT License - bebas digunakan untuk personal maupun komersial.
 4 **Backup data penting sebelum menggunakan file organizer
 
 Dibuat dengan ❤️ untuk developer dan system administrator
+
 "Membuat pekerjaan sehari-hari lebih mudah dengan AI"
