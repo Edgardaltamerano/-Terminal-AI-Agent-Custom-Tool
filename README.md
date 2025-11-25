@@ -114,18 +114,23 @@ Downloads/
 ```
 
 ## 🎪 Fitur Keren
+
 ### 🧠 Natural Language Processing
+
 AI memahami berbagai variasi perintah:
 - **"rapikan file PDF" = "organisir file pdf" = "pindahkan file pdf"
 - **"cek RAM" = "periksa memory" = "lihat sisa memory"
 
 ### 📂 Smart File Detection
+
 Mendeteksi otomatis:
+
 - **Ekstensi file: PDF, JPG, PNG, DOCX, TXT, PY, ZIP, RAR
 - **Folder target: Downloads, Documents, Desktop
 - **Bahasa: Indonesia sehari-hari
 
 ### 🛡️ Safety Features
+
 - **Validasi path sebelum operasi
 - **Penanganan error yang graceful
 - **Duplicate file handling dengan penamaan otomatis
@@ -144,30 +149,23 @@ Solution: Pastikan folder target ada dan dapat diakses
 ```
 
 ### 🤝 Kontribusi
+
 1. Contributions are welcome!
-
 2. Fork repository
-
 3. Buat feature branch
-
 4. Commit changes
-
 5. Push ke branch
-
 6. Buat Pull Request
 
 ## 📄 License
 MIT License - bebas digunakan untuk personal maupun komersial.
 
 ## 💡 Tips Penggunaan
+
 1. Gunakan bahasa natural - AI memahami percakapan sehari-hari
-
 2. Spesifik lebih baik - "rapikan file PDF di Downloads"
-
 3. Cek available memory sebelum operasi file besar
-
 4. Backup data penting sebelum menggunakan file organizer
 
 ### Dibuat untuk developer dan system administrator
-
 ### "Membuat pekerjaan sehari-hari lebih mudah dengan AI"
